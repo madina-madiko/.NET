@@ -1,0 +1,7 @@
+Id;RouteId;Category Name;Amount;Status
+1;2;0 - 1kg;2;OK
+2;4;6 - 12kg;1;Late
+3;3;13 - 17kg;5;OK
+4;6;0 - 1kg;1;Late
+5;9;13 - 17kg;3;OK
+6;5;2 - 5kg;4;Canceled
