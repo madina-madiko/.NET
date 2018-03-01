@@ -1,0 +1,11 @@
+Id;Source;Destination;Delivery (in hours);ShippingType Id;Category Id
+1;Paris;Amsterdam;46;1;4
+2;Amsterdam;Berlin;72;2;2
+3;Berlin;Cardiff;8;3;3
+4;Praga;Berlin;34;1;5
+5;Budapest;Berlin;32;1;5
+6;Birmingham;Praga;36;2;2
+7;Praga;Paris;22;3;1
+8;Berlin;Amsterdam;73;2;2
+9;Barcelona;Amsterdam;28;1;4
+10;Vienna;Rotterdam;43;1;3
